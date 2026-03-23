@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Calvin Stern
 description              : Calvin Stern - Projects and CV 
-baseurl                  : "/sp26-portfolio-cas569-web/"
+baseurl                  : "/sp26-portfolio-cas569-web"
 
 # Theme and Style
 theme: jekyll-theme-minimal
