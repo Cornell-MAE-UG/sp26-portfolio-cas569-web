@@ -13,6 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Calvin Stern
 description              : Calvin Stern - Projects and CV 
+url                      : "https://cornell-mae-ug.github.io"
 baseurl                  : "/sp26-portfolio-stern/"
 
 # Theme and Style
@@ -25,6 +26,9 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 
+include:
+  - _pages
+  
 collections:
   pages:
     output: true
