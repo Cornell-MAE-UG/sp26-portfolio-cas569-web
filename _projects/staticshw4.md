@@ -3,7 +3,7 @@ layout: project
 title: Statics HW4
 description: Statics Design
 technologies: 
-image: 
+images: 
 - /assets/images/HW4-1.jpg
 - /assets/images/HW4-2.jpg
 - /assets/images/HW4-3.jpg
